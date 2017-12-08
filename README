@@ -1,0 +1,4 @@
+###SSM框架模板，Spring,SpringMVC,Mybatis。
+工具：IDEA  Maven管理jar包
+使用Mybatis-generator自动生成model,dao,mapping，只需要修改指定数据库表即可。
+包括事务管理、分页等。
