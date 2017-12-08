@@ -3,3 +3,14 @@ SSM框架模板，Spring,SpringMVC,Mybatis。
 使用Mybatis-generator自动生成model,dao,mapping，只需要修改指定数据库表即可。
 包括事务管理、分页等。
 小型web项目可以直接拿来套框架进行开发。
+
+java包下的一般结构是：com.kaiz
+                            controller
+														dao
+														dto
+														model
+														service
+														util
+														web.interceptor
+											
+            
