@@ -4,13 +4,14 @@ SSM框架模板，Spring,SpringMVC,Mybatis。
 包括事务管理、分页等。
 小型web项目可以直接拿来套框架进行开发。
 
-java包下的一般结构是：com.kaiz
-                            controller
-														dao
-														dto
-														model
-														service
-														util
-														web.interceptor
+java包下的一般结构是：
+               com.kaiz
+                        controller
+			dao
+			dto
+			model
+			service
+			util
+			web.interceptor
 											
             
